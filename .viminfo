@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1663392124,,"wq!"
+|2,0,1663398188,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,46 @@
 # Registers:
 
 # File marks:
-'0  3  13  ~/valaxydocs/myinfo
-|4,48,3,13,1663392124,"~/valaxydocs/myinfo"
-'1  3  13  ~/myinfo
-|4,49,3,13,1663391856,"~/myinfo"
+'0  1  0  ~/.git/MERGE_MSG
+|4,48,1,0,1663398188,"~/.git/MERGE_MSG"
+'1  3  13  ~/valaxydocs/myinfo
+|4,49,3,13,1663392124,"~/valaxydocs/myinfo"
+'2  3  13  ~/myinfo
+|4,50,3,13,1663391856,"~/myinfo"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1663398188,"~/.git/MERGE_MSG"
 -'  3  13  ~/valaxydocs/myinfo
 |4,39,3,13,1663392124,"~/valaxydocs/myinfo"
+-'  3  13  ~/valaxydocs/myinfo
+|4,39,3,13,1663392124,"~/valaxydocs/myinfo"
+-'  1  0  ~/valaxydocs/myinfo
+|4,39,1,0,1663392086,"~/valaxydocs/myinfo"
 -'  1  0  ~/valaxydocs/myinfo
 |4,39,1,0,1663392086,"~/valaxydocs/myinfo"
 -'  3  13  ~/myinfo
 |4,39,3,13,1663391856,"~/myinfo"
 -'  3  13  ~/myinfo
 |4,39,3,13,1663391856,"~/myinfo"
+-'  3  13  ~/myinfo
+|4,39,3,13,1663391856,"~/myinfo"
+-'  3  13  ~/myinfo
+|4,39,3,13,1663391856,"~/myinfo"
+-'  1  0  ~/myinfo
+|4,39,1,0,1663391800,"~/myinfo"
+-'  1  0  ~/myinfo
+|4,39,1,0,1663391800,"~/myinfo"
 -'  1  0  ~/myinfo
 |4,39,1,0,1663391800,"~/myinfo"
 -'  1  0  ~/myinfo
 |4,39,1,0,1663391800,"~/myinfo"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1663398175	0
+	"	1	0
 
 > ~/valaxydocs/myinfo
 	*	1663392121	0
