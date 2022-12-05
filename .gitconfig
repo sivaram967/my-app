@@ -1,9 +1,0 @@
-[user]
-	name = arunkumar
-	email = arun.cloud29@gmail.com
-[pull]
-	rebase = true
-[rebase]
-	autoStash = true
-[push]
-	autoSetupRemote = true
